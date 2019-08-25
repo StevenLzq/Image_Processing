@@ -7,3 +7,5 @@
 3、学习了解非线性滤波的原理 
 
 4、练习实现中值滤波和双边滤波 
+
+**参考答案**[python opencv数字图像处理TASK3滤波操作](https://blog.csdn.net/weixin_41871126/article/details/100064014)
