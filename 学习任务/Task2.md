@@ -4,4 +4,4 @@
 2. 了解灰度变换应用场景并加以实现：反转、对数变化、幂律变化、分段性变换
 3. 练习图像直方图，直方图匹配
 4. 了解二值化常用方法阈值选取原理和方法，并练习实现对比效果，熟悉各自的应用场景
-参考形式：[python opencv数字图像处理TASK2灰度变换和二值化](https://blog.csdn.net/weixin_41871126/article/details/100062601)
+5.部分答案：[python opencv数字图像处理TASK2灰度变换和二值化](https://blog.csdn.net/weixin_41871126/article/details/100062601)
